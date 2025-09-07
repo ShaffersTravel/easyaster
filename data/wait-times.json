@@ -1,0 +1,20 @@
+{
+  "london": {
+    "visitorDays": 82,
+    "studentDays": 3,
+    "workerDays": 7,
+    "source": "travel.state.gov"
+  },
+  "belfast": {
+    "visitorDays": 82,
+    "studentDays": 14,
+    "workerDays": 14,
+    "source": "global snapshot"
+  },
+  "dublin": {
+    "visitorDays": 3,
+    "studentDays": 4,
+    "workerDays": 4,
+    "source": "global snapshot"
+  }
+}
